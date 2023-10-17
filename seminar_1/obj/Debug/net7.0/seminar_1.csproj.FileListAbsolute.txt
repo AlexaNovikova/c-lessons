@@ -1,0 +1,14 @@
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_1\bin\Debug\net7.0\seminar_1.exe
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_1\bin\Debug\net7.0\seminar_1.deps.json
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_1\bin\Debug\net7.0\seminar_1.runtimeconfig.json
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_1\bin\Debug\net7.0\seminar_1.dll
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_1\bin\Debug\net7.0\seminar_1.pdb
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_1\obj\Debug\net7.0\seminar_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_1\obj\Debug\net7.0\seminar_1.AssemblyInfoInputs.cache
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_1\obj\Debug\net7.0\seminar_1.AssemblyInfo.cs
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_1\obj\Debug\net7.0\seminar_1.csproj.CoreCompileInputs.cache
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_1\obj\Debug\net7.0\seminar_1.dll
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_1\obj\Debug\net7.0\refint\seminar_1.dll
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_1\obj\Debug\net7.0\seminar_1.pdb
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_1\obj\Debug\net7.0\seminar_1.genruntimeconfig.cache
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_1\obj\Debug\net7.0\ref\seminar_1.dll

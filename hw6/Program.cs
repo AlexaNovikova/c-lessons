@@ -38,7 +38,7 @@ double [] IntersectionPointCoordinates(double k1, double b1, double k2, double b
   return coordinates;
 }
 
-
+//second
 Console.WriteLine("Enter b1");
 double b1 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Enter b2");

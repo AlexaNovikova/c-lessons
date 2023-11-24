@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AlexNovikova\\Desktop\\GeekBrains\\С#practice\\hw2\\hw2.csproj",
-      "projectName": "hw2",
-      "projectPath": "C:\\Users\\AlexNovikova\\Desktop\\GeekBrains\\С#practice\\hw2\\hw2.csproj",
+      "projectUniqueName": "C:\\Users\\AlexNovikova\\Desktop\\GeekBrains\\С#practice\\seminar_4\\seminar_4.csproj",
+      "projectName": "seminar_4",
+      "projectPath": "C:\\Users\\AlexNovikova\\Desktop\\GeekBrains\\С#practice\\seminar_4\\seminar_4.csproj",
       "packagesPath": "C:\\Users\\AlexNovikova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AlexNovikova\\Desktop\\GeekBrains\\С#practice\\hw2\\obj\\",
+      "outputPath": "C:\\Users\\AlexNovikova\\Desktop\\GeekBrains\\С#practice\\seminar_4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\AlexNovikova\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

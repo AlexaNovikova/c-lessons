@@ -1,0 +1,14 @@
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_4\obj\Debug\net7.0\seminar_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_4\obj\Debug\net7.0\seminar_4.AssemblyInfoInputs.cache
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_4\obj\Debug\net7.0\seminar_4.AssemblyInfo.cs
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_4\obj\Debug\net7.0\seminar_4.csproj.CoreCompileInputs.cache
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_4\bin\Debug\net7.0\seminar_4.exe
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_4\bin\Debug\net7.0\seminar_4.deps.json
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_4\bin\Debug\net7.0\seminar_4.runtimeconfig.json
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_4\bin\Debug\net7.0\seminar_4.dll
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_4\bin\Debug\net7.0\seminar_4.pdb
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_4\obj\Debug\net7.0\seminar_4.dll
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_4\obj\Debug\net7.0\refint\seminar_4.dll
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_4\obj\Debug\net7.0\seminar_4.pdb
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_4\obj\Debug\net7.0\seminar_4.genruntimeconfig.cache
+C:\Users\AlexNovikova\Desktop\GeekBrains\С#practice\seminar_4\obj\Debug\net7.0\ref\seminar_4.dll
